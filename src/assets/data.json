@@ -1,0 +1,86 @@
+[{
+    "Country": "Austria",
+    "GDP": 3.0,
+    "Product price": 1.0,
+    "Habit persistance": 0.6,
+    "Population": 5.0,
+    "Demographics": -1.6,
+    "Market Environment": 2.0,
+    "Soft Drivers": 1.0
+  }, {
+    "Country": "Australia",
+    "GDP": 2.0,
+    "Product price": -1.0,
+    "Habit persistance": -0.6,
+    "Population": -5.0,
+    "Demographics": 1.6,
+    "Market Environment": -2.0,
+    "Soft Drivers": -1.0
+  },
+  {
+    "Country": "Bhutan",
+    "GDP": 4.0,
+    "Product price": 0.8,
+    "Habit persistance": 0.6,
+    "Population": 1.0,
+    "Demographics": 1.6,
+    "Market Environment": 1.0,
+    "Soft Drivers": 2.0
+  }, {
+    "Country": "Brazil",
+    "GDP": -0.2,
+    "Product price": -1.0,
+    "Habit persistance": -0.8,
+    "Population": 2.0,
+    "Demographics": -1.6,
+    "Market Environment": -1.0,
+    "Soft Drivers": 2.0
+  },
+  {
+    "Country": "Canada",
+    "GDP": 2.0,
+    "Product price": -1.0,
+    "Habit persistance": 0.6,
+    "Population": 4.2,
+    "Demographics": 1.7,
+    "Market Environment": 2.5,
+    "Soft Drivers": 1.3
+  }, {
+    "Country": "Egypt",
+    "GDP": -0.1,
+    "Product price": 2.0,
+    "Habit persistance": -0.6,
+    "Population": 5.0,
+    "Demographics": -1.6,
+    "Market Environment": 2.0,
+    "Soft Drivers": 1.0
+  },
+  {
+    "Country": "France",
+    "GDP": -2.0,
+    "Product price": 1.0,
+    "Habit persistance": -0.6,
+    "Population": -4.2,
+    "Demographics": -1.7,
+    "Market Environment": -2.5,
+    "Soft Drivers": -1.3
+  }, {
+    "Country": "Indonesia",
+    "GDP": 3.0,
+    "Product price": 1.0,
+    "Habit persistance": 0.6,
+    "Population": 5.0,
+    "Demographics": -1.6,
+    "Market Environment": 2.0,
+    "Soft Drivers": 1.0
+  }, {
+    "Country": "Japan",
+    "GDP": 1.0,
+    "Product price": 2.3,
+    "Habit persistance": 1.6,
+    "Population": 4.0,
+    "Demographics": 2.6,
+    "Market Environment": 1.3,
+    "Soft Drivers": 2.3
+  }
+]

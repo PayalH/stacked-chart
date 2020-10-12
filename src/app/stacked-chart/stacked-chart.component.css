@@ -1,0 +1,24 @@
+.d3-chart {
+    width: 100%;
+    height: 400px;
+  }
+  
+  .d3-chart .axis path,
+  .d3-chart .axis line {
+    stroke: #999;
+  }
+  
+  .d3-chart .axis text {
+    fill: #999;
+  }
+  div.tooltip {
+    position: absolute;
+    text-align: center;
+    width: 200px;
+    height: 100px;
+    padding: 2px;
+    font: 12px sans-serif;
+    background: lightsteelblue;
+    border: 0px;
+    border-radius: 8px;
+  }
